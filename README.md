@@ -1,6 +1,24 @@
----
-owner-repo: jart/libc-test
-desc:    
----
-
 # libc-test
+
+
+
+- **Upstream**: <https://github.com/jart/libc-test>
+- **Homepage**: <>
+- **Latest release**: `` (n/a)
+- **Last commit**: 2022-10-11
+- **License**: NOASSERTION
+- **Stars**: 7 · **Forks**: 1 · **Open issues**: 0 · **Contributors**: 5
+
+## Installation
+
+```sh
+x install libc-test
+```
+
+See <https://x-cmd.com/install/libc-test> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T11:43:38Z._
